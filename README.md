@@ -20,6 +20,6 @@ Clique droit sur le nom du serveur, sélectionner utilisateurs et ordinateurs Ac
 
 ____
 
-Dans le **Gestionnaire du serveur** ---> clic sur **AD DS** ---> clic droit sur le nom du serveur ---> clic sur **Utilisateurs et ordinateurs Acive Directory** ---> clic droit sur **wilders.lan** ---> **Nouveau** ---> **Unité d'organisation**
+Dans le **Gestionnaire du serveur** ---> clic sur **AD DS** ---> clic droit sur le nom du serveur ---> clic sur **Utilisateurs et ordinateurs Acive Directory** ---> clic droit sur **wilders.lan** ---> **Nouveau** ---> **Unité d'organisation** ---> nommer l'OU "Wilders_students" et valider.
 
 ![image](https://github.com/techerbeatrice/Active_Directory_Unite_Organisation/assets/138071140/a1addde1-ba6c-413e-80e8-76b0810c3d47)
