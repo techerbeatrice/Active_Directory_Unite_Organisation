@@ -24,7 +24,7 @@ Dans le **Gestionnaire du serveur** ---> clic sur **AD DS** ---> clic droit sur 
 
 ![image](https://github.com/techerbeatrice/Active_Directory_Unite_Organisation/assets/138071140/a1addde1-ba6c-413e-80e8-76b0810c3d47)
 
-Pour l'ajout d'un nouveau groupe, la même opération mais au lieu de cliquer Unité d'organisation, cliquer sur **Groupe** ---> nommer le groupe **"Students"** et Valider.
+Pour l'ajout d'un nouveau groupe, cliquer sur **Groupe** ---> nommer le groupe **"Students"** et Valider.
 
 ![image](https://github.com/techerbeatrice/Active_Directory_Unite_Organisation/assets/138071140/713320cf-b86f-43ba-a276-dc8c72284eb5)
 
