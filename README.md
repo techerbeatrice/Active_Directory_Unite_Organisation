@@ -26,21 +26,15 @@ Dans le **Gestionnaire du serveur** ---> clic sur **AD DS** ---> clic droit sur 
 
 Pour l'ajout d'un nouveau groupe, la même opération mais au lieu de cliquer Unité d'organisation, cliquer sur **Groupe** ---> nommer le groupe **"Students"** et Valider.
 
-![image](https://github.com/techerbeatrice/Active_Directory_Unite_Organisation/assets/138071140/8a07c086-bef0-4541-9deb-eb375b870d69)
+![image](https://github.com/techerbeatrice/Active_Directory_Unite_Organisation/assets/138071140/713320cf-b86f-43ba-a276-dc8c72284eb5)
 
-![image](https://github.com/techerbeatrice/Active_Directory_Unite_Organisation/assets/138071140/39d885bb-a631-4abe-898f-c36e521982f8)
+![image](https://github.com/techerbeatrice/Active_Directory_Unite_Organisation/assets/138071140/33967515-3073-4a5d-aadf-552ea494728d)
 
-Pour ajouter un nouveau utilisateur au sein du groupe nouvellement créé, clic droit sur le groupe **Wilders students**, sélectionner **Nouveau** ---> **Utilisateur** ---> Renseigner la fenêtre **Nouvel objet - Utilisateur** 
+Pour ajouter un nouveau utilisateur au sein du groupe nouvellement créé, clic droit sur l'icône au-dessus **"Créer un nouvel utilisateur dans le conteneur actuel"**.
 
-![image](https://github.com/techerbeatrice/Active_Directory_Unite_Organisation/assets/138071140/75b073e3-6b89-4284-b3f9-c268d49366bc)
-
-![image](https://github.com/techerbeatrice/Active_Directory_Unite_Organisation/assets/138071140/d69d1bd7-5bd7-4111-87df-612fc1071411)
-
-Attribuer à l'utilisateur un mot de passe, dans l'exemple ci-dessous, il pourra le changer par la suite.
-
-![image](https://github.com/techerbeatrice/Active_Directory_Unite_Organisation/assets/138071140/f3b9a288-53db-4c1c-9b41-e99d1d52d861)
+![image](https://github.com/techerbeatrice/Active_Directory_Unite_Organisation/assets/138071140/d5a162d4-91e2-412b-bd61-9f7102b748a3)
 
 ![image](https://github.com/techerbeatrice/Active_Directory_Unite_Organisation/assets/138071140/c718b335-7e8f-4f08-9270-dbe84ff5fc68)
 
-![image](https://github.com/techerbeatrice/Active_Directory_Unite_Organisation/assets/138071140/fe397aba-b05d-453f-ac0a-de2884d740d3)
+![image](https://github.com/techerbeatrice/Active_Directory_Unite_Organisation/assets/138071140/5bae1fc1-0cf0-4ba8-9d1a-1b8015f7f0b4)
 
