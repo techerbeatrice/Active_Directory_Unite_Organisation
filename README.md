@@ -36,7 +36,7 @@ Pour ajouter un nouveau utilisateur au sein du groupe nouvellement créé, clic 
 
 ![image](https://github.com/techerbeatrice/Active_Directory_Unite_Organisation/assets/138071140/d69d1bd7-5bd7-4111-87df-612fc1071411)
 
-Attribuer à l'utilisateur un mot de passe, dans cet exemple ci-dessous, qu'il pourra le changer par la suite.
+Attribuer à l'utilisateur un mot de passe, dans l'exemple ci-dessous, il pourra le changer par la suite.
 
 ![image](https://github.com/techerbeatrice/Active_Directory_Unite_Organisation/assets/138071140/f3b9a288-53db-4c1c-9b41-e99d1d52d861)
 
