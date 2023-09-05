@@ -1,4 +1,13 @@
 # Unité d'Organisation sur Active Directory de windows server   
+___
+
+Sur ton Active Directory que tu as installé et configuré dans la quête précédente avec pour domaine wilders.lan    
+•	Créer une Unité d'Organisation Wilders_students    
+•	Créer un Groupe d'utilisateurs Students   
+•	Créer un utilisateur au sein de ce groupe     
+•	Documenter cette procédure et publie cette documentation en markdown en solution à cette quête    
+•	La documentation proposée permet bien de créer une Unité d'Organisation Wilders.students, un groupe d'utilisateurs students et un utilisateur dans ce groupe   
+___
 
 **Les étapes :**  
 
